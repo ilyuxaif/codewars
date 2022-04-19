@@ -4,7 +4,7 @@
  * Do this for every letter, see example below!
  * E.g. Input: "aa", "bb" , "cc" => Output: "abcabc"
  * Note: You can expect all of the inputs to be the same length.
- * https://www.codewars.com/kata/5704aea738428f4d30000914
+ * https://www.codewars.com/kata/5704aea738428f4d30000914/train/java
  */
 
 
